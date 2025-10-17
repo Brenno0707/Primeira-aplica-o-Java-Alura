@@ -49,11 +49,11 @@ A aplicação será iniciada no console.
 
 Este projeto é o resultado da conclusão do curso:
 
-* [cite_start]**Curso:** Java: criando a sua primeira aplicação [cite: 11]
-* [cite_start]**Plataforma:** Alura (Programa ONE - Oracle Next Education) [cite: 9, 12]
-* [cite_start]**Conclusão:** 17 de outubro de 2025 [cite: 8]
+* **Curso:** Java: criando a sua primeira aplicação 
+* **Plataforma:** Alura (Programa ONE - Oracle Next Education) 
+* **Conclusão:** 17 de outubro de 2025
 
-[cite_start][Link para o Certificado](https://cursos.alura.com.br/certificate/brenno-matos2007/java-criando-primeira-aplicacao) [cite: 15]
+[Link para o Certificado](https://cursos.alura.com.br/certificate/brenno-matos2007/java-criando-primeira-aplicacao) 
 
 ---
 Desenvolvido por **Brenno Oliveira Matos**
